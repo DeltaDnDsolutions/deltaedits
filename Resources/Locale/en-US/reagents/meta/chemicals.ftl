@@ -10,6 +10,9 @@
 #
 # SPDX-License-Identifier: MIT
 
+reagent-name-amnestic = amnestic
+reagent-desc-amnestic = Test description, makes you forget.
+
 reagent-name-acetone = acetone
 reagent-desc-acetone = A slick, slightly carcinogenic liquid. Has a multitude of mundane uses in everyday life.
 

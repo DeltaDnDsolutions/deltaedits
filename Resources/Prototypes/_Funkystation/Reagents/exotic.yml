@@ -13,6 +13,16 @@
 # For new chems: Exotic should only be strong gimmick / strong inverted chems / parts of said chems.
 
 - type: reagent
+  id: Amnestic
+  name: reagent-name-amnestic
+  desc: reagent-desc-amnestic
+  physicalDesc: reagent-physical-desc-alkaline
+  color: white
+  flavor: nothing
+  meltingPoint: -50.0
+  boilingPoint: 55.5
+
+- type: reagent
   id: ExoticReagent
   name: reagent-name-exotic
   group: Exotic
